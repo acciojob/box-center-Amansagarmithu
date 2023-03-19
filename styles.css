@@ -2,11 +2,12 @@
 div{
 	background-color:lightblue;
 	width:400px;
+	border:2px solid black;
 	
 }
 h1{
 	color:purple;
 	padding:100px;
 	text-align:center;
-	border:2px solid black;
+	
 }
